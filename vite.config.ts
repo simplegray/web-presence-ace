@@ -1,6 +1,6 @@
 export default defineConfig(({ mode }) => ({
   base: "/web-presence-ace/",
-
+  
   server: {
     host: "::",
     port: 8080,
